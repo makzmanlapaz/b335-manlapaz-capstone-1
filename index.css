@@ -1,0 +1,13 @@
+/*CSS Reset*/
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Zilla Slab" ;
+}
+
+.add-border{
+	border: 2px solid white;
+	border-radius: 10px;
+}
